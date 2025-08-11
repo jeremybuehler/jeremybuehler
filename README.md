@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I’ve been coding and building solutions since 1999 — from SaaS to mobile to web.  
+I’ve been coding and building solutions since 1999 — from SaaS to mobile to cloud and here we are!  
 Today, my mission is to create **NextGen AI-Native, AI-First platforms** that blend human ingenuity with intelligent automation.
 
 I’m obsessed with:
