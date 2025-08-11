@@ -21,15 +21,16 @@ I’m obsessed with:
 - **BuehlerCoreAgent** — Hybrid TS/Python agent mesh + orchestration framework  
 - **MyHealth Project** — Personal health stack + intelligent tracking for long-term wellness  
 - **Personal Human Context Framework** — AI-consumable “operating manual” for human-AI interaction
+- **AI Explained
 
 ---
-
+<!--
 ### 📚 What I’m Learning
 - Python for AI agent orchestration  
 - FastAPI backend design  
 - Model Context Protocols (MCPs)  
 - Multi-agent architectures & agent mesh systems
-
+-->
 ---
 
 ### 📈 Vision
@@ -37,7 +38,7 @@ Build **AI that works *with* humans, not instead of them** — integrating *Huma
 My goal: deliver **10x better outcomes** by combining automation, oversight, and continuous learning loops.
 
 ---
-
+<!--
 ### 🌐 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/) *(add your LinkedIn handle)*
 - 🐦 [Twitter/X](https://twitter.com/) *(add your handle)*
@@ -45,7 +46,7 @@ My goal: deliver **10x better outcomes** by combining automation, oversight, and
 - 🌎 [Buehler.ai](https://buehler.ai)
 
 ---
-
+-->
 > 💡 *“Observe from the edge. Execute from the core.”*
 
 <!--
