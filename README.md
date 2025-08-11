@@ -18,20 +18,17 @@ I’m obsessed with:
 
 ### 🛠 Current Projects
 - **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims  
-- **BuehlerCoreAgent** — Hybrid TS/Python agent mesh + orchestration framework  
+- **[FieldFlux](https://fieldflux.app)** — The AI-native marketing automation platform built specifically for field service businesses.
 - **MyHealth Project** — Personal health stack + intelligent tracking for long-term wellness  
 - **Personal Human Context Framework** — AI-consumable “operating manual” for human-AI interaction
-- **AI Explained
+- **Whatever comes to mind**
 
----
 <!--
 ### 📚 What I’m Learning
-- Python for AI agent orchestration  
-- FastAPI backend design  
+- Python for AI agent orchestration    
 - Model Context Protocols (MCPs)  
 - Multi-agent architectures & agent mesh systems
 -->
----
 
 ### 📈 Vision
 Build **AI that works *with* humans, not instead of them** — integrating *Human-In-The-Loop* into every intelligent system.  
