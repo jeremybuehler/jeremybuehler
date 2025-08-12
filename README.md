@@ -22,16 +22,16 @@ Today, my mission is to create **NextGen AI-Native, AI-First platforms** that bl
 
 ### 📚 Currently Studying
 - **Context Engineering** — Building richer, persistent AI context frameworks  
-- **Agent Orchestration** — Multi-agent mesh design & operational pipelines  
+- **Agent Orchestration** — Multi-agent mesh design,agent orchestration & operational pipelines  
 - **AI Readiness** — Assessing and preparing businesses for AI adoption  
 - **AI-Applied** — Practical integration of AI into workflows and products  
 
 ---
 
 ### 📊 GitHub Activity
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremybuehler&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremybuehler&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremybuehler&theme=radical)
 
 ---
 
@@ -59,7 +59,7 @@ Today, my mission is to create **NextGen AI-Native, AI-First platforms** that bl
 ### 🔗 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 - 🐦 [Twitter/X](https://twitter.com/YOUR_HANDLE)
-- 📧 jeremy@buehlerdev.com
+- 📧 jeremy@buehler.ai
 - 🌎 [Buehler.ai](https://buehler.ai)
 
 ---
