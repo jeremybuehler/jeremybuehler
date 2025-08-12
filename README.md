@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Jeremy
 
-**AI Generalist | Engineer | Entrepreneur | Veteran | Builder of AI-Native Platforms**
+**AI Generalist | Engineer | Entrepreneur | Veteran | Builder of AI-Native Platforms specializing in HITL (Human In The Loop)**
 
 ---
 
