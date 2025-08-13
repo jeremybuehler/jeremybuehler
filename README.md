@@ -12,10 +12,10 @@ Today, my mission is to create **NextGen AI-Native, AI-First platforms** that bl
 
 ### 🛠 Current Projects
 - **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims  
-- **[Kasama](https://kasama.ai)** — AI-powered tools for communiy, individual mental health, emotional intelligence and collaborative intelligence  
+- **[Kasama](https://app.kasama.ai)** — AI-powered tools for communiy, individual mental health, emotional intelligence and collaborative intelligence  
 - **[FieldFlux](https://fieldflux.app)** — Intelligent field service marketing automation platform  
-- **[BuehlerAI](https://buehler.ai)** — Applied AI consultancy and product development studio  
-- **[PensacolaAI](https://pensacola.ai)** — Local-first AI Incubator  
+- **[BuehlerAI](#https://buehler.ai)** — Applied AI consultancy and product development studio  
+- **[PensacolaAI](#https://pensacola.ai)** — Local-first AI Incubator  
 - **[CreatorVerse]()** — A comprehensive content management and social media platform designed for content creators.
 
 ---
