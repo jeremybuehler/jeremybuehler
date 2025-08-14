@@ -1,12 +1,11 @@
 # 👋 Hey, I’m Jeremy
-
 **AI Generalist | Engineer | Entrepreneur | Veteran | Builder of things, pecializing in HITL (Human In The Loop)**
 
 ---
 
-### 🚀 About Me
-I’ve been designing, developing and delivering Web, Mobile, SaaS, Microservice solutions since 1999. Here to act as a pawlbearer to that which was known as SaaS.  
-Today, my mission is to create **AI-First**/**AI-Native** pick a term. I am here to lead, design, develop, deliver **AI Solutions**, that blend human ingenuity with intelligent automation.
+### 🚀 About Me ##
+I’ve been designing, developing and delivering Desktop, Web, Mobile, SaaS, Microservice solutions since 1999. 
+Today, my mission is to lead, design, develop, deliver **AI Solutions**, that blend human ingenuity with intelligent automation.
 
 ---
 
@@ -20,11 +19,14 @@ Today, my mission is to create **AI-First**/**AI-Native** pick a term. I am here
 
 ---
 
-### 📚 Currently Studying
-- **Context Engineering** — Building richer, persistent AI context frameworks
-- **Agents** - Multi-agent mesh design,agent orchestration & operational pipelines  
+### 📚 Actively learning while implementing!
+- **Context Engineering** — Building richer, persistent AI context frameworks  
 - **AI Readiness** — Assessing and preparing businesses for AI adoption  
-- **AI-Applied** — Practical integration of AI into workflows and products  
+- **AI Applied Blueprinting** — Practical integration of AI into workflows and products
+- **Custom Agent Development** - Develop and deploy autonomous, LLM-powered agents to automate complex workflows and drive specific business outcomes
+- **Data Infrastructure & Intelligence** - Intelligent foundation of services in data discovery, cleansing, and contextual modeling.
+- **Human-In-The-Loop Systems** - Implementing hybrid automation with seamless human expert review to ensure quality, compliance, and controlled risk.
+- **AgentOps Infrastructure** - Ensuring the security, reliability, and scalability of your AI Agents with our AgentOps and CI/CD frameworks
 
 ---
 
