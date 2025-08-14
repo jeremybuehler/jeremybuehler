@@ -1,18 +1,18 @@
 # 👋 Hey, I’m Jeremy
 
-**AI Generalist | Engineer | Entrepreneur | Veteran | Builder of AI-Native Platforms specializing in HITL (Human In The Loop)**
+**AI Generalist | Engineer | Entrepreneur | Veteran | Builder of things, pecializing in HITL (Human In The Loop)**
 
 ---
 
 ### 🚀 About Me
-I’ve been coding and building solutions since 1999 — from SaaS to mobile to web.  
-Today, my mission is to create **NextGen AI-Native, AI-First platforms** that blend human ingenuity with intelligent automation.
+I’ve been designing, developing and delivering Web, Mobile, SaaS, Microservice solutions since 1999. Here to act as a pawlbearer to that which was known as SaaS.  
+Today, my mission is to create **AI-First**/**AI-Native** pick a term. I am here to lead, design, develop, deliver **AI Solutions**, that blend human ingenuity with intelligent automation.
 
 ---
 
 ### 🛠 Current Projects
 - **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims  
-- **[Kasama](https://app.kasama.ai)** — AI-powered tools for communiy, individual mental health, emotional intelligence and collaborative intelligence  
+- **[Kasama](https://app.kasama.ai)** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
 - **[FieldFlux](https://fieldflux.app)** — Intelligent field service marketing automation platform  
 - **[BuehlerAI](#https://buehler.ai)** — Applied AI consultancy and product development studio  
 - **[PensacolaAI](#https://pensacola.ai)** — Local-first AI Incubator  
