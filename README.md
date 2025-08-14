@@ -22,7 +22,7 @@ Today, my mission is to create **AI-First**/**AI-Native** pick a term. I am here
 
 ### 📚 Currently Studying
 - **Context Engineering** — Building richer, persistent AI context frameworks  
-- **Agent Orchestration** — Multi-agent mesh design,agent orchestration & operational pipelines  
+- **Agent Choreography & Orchestration** — Multi-agent mesh design,agent orchestration & operational pipelines  
 - **AI Readiness** — Assessing and preparing businesses for AI adoption  
 - **AI-Applied** — Practical integration of AI into workflows and products  
 
