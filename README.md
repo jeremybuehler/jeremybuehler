@@ -1,11 +1,11 @@
 # 👋 Hey, I’m Jeremy
-**AI Generalist | Engineer | Entrepreneur | Veteran | Builder of things, pecializing in HITL (Human In The Loop)**
+**AI Generalist | Engineer | Entrepreneur | Veteran | Builder of things**
 
 ---
 
 ### 🚀 About Me ##
-I’ve been designing, developing and delivering Desktop, Web, Mobile, SaaS, Microservice solutions since 1999. 
-Today, my mission is to lead, design, develop, deliver **AI Solutions**, that blend human ingenuity with intelligent automation.
+I’ve been designing, developing and delivering Desktop, Web, Mobile, SaaS (various domains), Cloud solutions since 1999. 
+Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword> Solutions**, that blend human ingenuity with intelligent automation.
 
 ---
 
