@@ -11,10 +11,10 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 
 ### 🛠 Current Projects
 - **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims  
-- **[Kasama](https://app.kasama.ai)** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
+- **[Kasama]** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
 - **[FieldFlux](https://fieldflux.app)** — Intelligent field service marketing automation platform  
-- **[BuehlerAI](#https://buehler.ai)** — Applied AI consultancy and product development studio  
-- **[PensacolaAI](#https://pensacola.ai)** — Local-first AI Incubator  
+- **BuehlerAI** — Applied AI consultancy and product development studio  
+- **PensacolaAI**  
 - **[CreatorVerse]()** — A comprehensive content management and social media platform designed for content creators.
 
 ---
@@ -29,7 +29,7 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 - **AgentOps Infrastructure** - Ensuring the security, reliability, and scalability of your AI Agents with our AgentOps and CI/CD frameworks
 
 ---
-
+<!-- 
 ### 📊 GitHub Activity
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremybuehler&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremybuehler&layout=compact&theme=radical)  
@@ -57,7 +57,7 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 ![Claude](https://img.shields.io/badge/Claude-FFB800?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
-
+-->
 ### 🔗 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 - 🐦 [Twitter/X](https://twitter.com/YOUR_HANDLE)
