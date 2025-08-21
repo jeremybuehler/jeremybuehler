@@ -1,10 +1,10 @@
 # 👋 Hey, I’m Jeremy
-**AI Generalist | Engineer | Entrepreneur | Veteran | Builder of things**
+**Startup Founder | AI Generalist | Engineer | Entrepreneur | Veteran | Builder of things**
 
 ---
 
 ### 🚀 About Me ##
-I’ve been designing, developing and delivering Desktop, Web, Mobile, SaaS (various domains), Cloud solutions since 1999. 
+I’ve been designing, developing and delivering Desktop, Web, Mobile, SaaS (various domains), Cloud solutions through all the noise. 
 Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword> Solutions**, that blend human ingenuity with intelligent automation.
 
 ---
