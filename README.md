@@ -11,7 +11,7 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 
 ### 🛠 Current Projects
 - **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims  
-- **[Kasama]** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
+- **Kasama** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
 - **[FieldFlux](https://fieldflux.app)** — Intelligent field service marketing automation platform  
 - **BuehlerAI** — Applied AI consultancy and product development studio  
 - **PensacolaAI**  
