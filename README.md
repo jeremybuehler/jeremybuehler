@@ -15,7 +15,7 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 - **[FieldFlux](https://fieldflux.app)** — Intelligent field service marketing automation platform  
 - **BuehlerAI** — Applied AI consultancy and product development studio  
 - **PensacolaAI**  
-- **[CreatorVerse]()** — A comprehensive content management and social media platform designed for content creators.
+- **CreatorVerse** — A comprehensive content management and social media platform designed for content creators.
 
 ---
 
