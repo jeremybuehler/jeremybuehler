@@ -10,22 +10,21 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 ---
 
 ### 🛠 Current Projects
-- **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims  
-- **Kasama** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
+- **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims
+- **[MIA] (https://claimcompass.ai/mobile-app)** - ClaimCompass Mobile Inspection App
+- **[Kasama] (https://kasama.ai)** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
 - **[FieldFlux](https://fieldflux.app)** — Intelligent field service marketing automation platform 
-- **[CreatorVerse](https://creator-verse.replit.app/landing)** — A comprehensive content management and social media platform designed for content creators.
-- **[Poshy](https://poshy.click)**
 
 ---
 
 ### 📚 Actively learning while implementing!
-- **Context Engineering** — Building richer, persistent AI context frameworks  
-- **AI Readiness** — Assessing and preparing at the current speed of change
+- **Context Engineering** — Building richer, persistent AI context frameworks
+- **LearningLoop** - 
 - **AI Applied Blueprinting** — Practical integration of AI into workflows and products
 - **Custom Agent Development** - Develop and deploy autonomous, LLM-powered agents to automate complex workflows and drive specific business outcomes
 - **Data Infrastructure & Intelligence** - Intelligent foundation of services in data discovery, cleansing, and contextual modeling.
 - **Human-In-The-Loop Systems** - Implementing hybrid automation with seamless human expert review to ensure quality, compliance, and controlled risk.
-- **Agentic Infrastructure** - Ensuring the security, reliability, and scalability of your AI Agents with our AgentOps and CI/CD frameworks
+  
 
 ---
 <!-- 
