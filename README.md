@@ -8,12 +8,12 @@ I’ve been designing, developing and delivering Desktop, Web, Mobile, SaaS (var
 Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword> Solutions**, that blend human ingenuity with intelligent automation.
 
 ---
-
+<!---
 ### 🛠 Current Projects
-- **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims
-- **[MIA](https://claimcompass.ai/mobile-app)** - ClaimCompass Mobile Inspection App
-- **[Kasama](https://kasama.ai)** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
-- **[FieldFlux](https://fieldflux.app)** — Intelligent field service marketing automation platform 
+// # - **[ClaimCompass](https://claimcompass.ai)** — AI-Native public adjuster platform for property damage claims
+// # - **[MIA](https://claimcompass.ai/mobile-app)** - ClaimCompass Mobile Inspection App
+// # - **[Kasama](https://kasama.ai)** — AI-powered tools for relationship, community, individual mental health, emotional intelligence and collaborative intelligence development.
+// #- **[FieldFlux](https://fieldflux.app)** — Intelligent field service marketing automation platform 
 
 ---
 
@@ -47,6 +47,7 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 
 #### **Databases & Hosting**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -55,7 +56,7 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 ![Claude](https://img.shields.io/badge/Claude-FFB800?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
--->
+
 ### 🔗 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/thejeremybuehler)
 - 🐦 [Twitter/X](https://twitter.com/jeremybuehler)
@@ -63,6 +64,7 @@ Today, my mission is to lead, design, develop, deliver **AI-Native, AI <buzzword
 - 🌎 [BuehlerDev](https://....)
 
 ---
+-->
 
 > 💡 *“Observe from the edge. Execute from the core.”*
 
