@@ -1,20 +1,12 @@
-# 👋 Hey, I'm Jeremy
+# BuehlerAI - AI Strategy for Small Business
 **Startup Founder | AI Generalist | Engineer | Entrepreneur | Veteran | Builder of things**
-
----
-
-### 🚀 About Me
-I've been designing, developing and delivering Desktop, Web, Mobile, SaaS (various domains), Cloud solutions through all the noise. 
-Today, my mission is to lead, design, develop, deliver **AI-Native, Agent-First Solutions** that blend human ingenuity with intelligent automation.
-
-I specialize in **Agent Native Architecture** — building systems where AI agents are first-class citizens in the application architecture, not just feature add-ons.
 
 ---
 
 ### 🛠 Current Projects
 
-#### **[FieldNative](https://fieldnative.app)** — Agent Native Field Service Platform
-A next-generation field service management platform built from the ground up with **Agent Native Architecture**.
+#### **[FieldNative](https://fieldnative.com)** — Agent Native Field Service Platform
+The first Agent Native solution for Field Service providers and the small business.
 
 **🤖 Agent Native Implementation:**
 - **Autonomous Scheduling Agent**: Uses constraint-based reasoning to optimize technician routes and appointment scheduling in real-time
@@ -73,10 +65,12 @@ A next-generation field service management platform built from the ground up wit
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Claude-FFB800?style=for-the-badge&logo=anthropic&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 #### **Databases & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
