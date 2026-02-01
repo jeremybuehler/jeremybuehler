@@ -13,7 +13,7 @@ I specialize in **Agent Native Architecture** — building systems where AI agen
 
 ### 🛠 Current Projects
 
-#### **[FieldNative](https://fieldnative.app)** — The AI-Native Operating System for Field Service Companies
+#### **[FieldNative](https://fieldnative.com)** — The AI-Native Operating System for Field Service Companies
 
 Stop juggling spreadsheets, missed calls, and scattered workflows. FieldNative brings your entire field service operation into one intelligent platform—built from the ground up with AI at its core.
 
